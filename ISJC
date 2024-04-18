@@ -1,0 +1,27 @@
+{
+  "name": "I Speak Jackie Chan",
+  "symbol": "ISJK",
+  "description": "A unique token dedicated to celebrating the legacy of Jackie Chan.",
+  "image": "https://yourhostingservice.com/path/to/image.png",
+  "attributes": [
+    {
+      "trait_type": "Special Edition",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourhostingservice.com/path/to/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DozxLjkhbedKNYAD4vebSPWExKNs38MdjMJ4vDADazw",
+        "share": 100
+      }
+    ]
+  }
+}
