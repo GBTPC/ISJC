@@ -1,15 +1,32 @@
 {
   "name": "I Speak Jackie Chan",
-  "description": "Yo hablo Jackie Chan bruh.",
-  "image": "https://i.pinimg.com/564x/28/f2/0f/28f20fd0d808eb32d6e63fe785ce6aa1.jpg",
+  "symbol": "ISJC",
+  "description": "Don't try to be like Jackie. There only one Jackie. Study computer instead!",
+  "seller_fee_basis_points": 100, // 1% seller fee.
+  "image": "https://example.com/path_to_image.png",
   "attributes": [
     {
-      "trait_type": "Humor",
+      "trait_type": "EPIK",
       "value": "High"
-    },
-    {
-      "trait_type": "Action",
-      "value": "Intense"
     }
-  ]
+  ],
+  "collection": {
+    "name": "CMemecoin",
+    "family": "wow"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.pinimg.com/564x/28/f2/0f/28f20fd0d808eb32d6e63fe785ce6aa1.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5a7s6K5pLQnxf5KDmHGCG9a8CzBNMgw9hn49PpKFenhG",
+        "share": 100
+      }
+    ]
+  }
 }
